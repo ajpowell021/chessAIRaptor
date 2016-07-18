@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{938EB8D8-7EEC-A722-F796-D1226CF9D3EB}") = "Chess AI", "Assembly-CSharp-firstpass.csproj", "{A23E6A49-7E65-7FD6-3569-0770C42784CB}"
+EndProject
+Project("{938EB8D8-7EEC-A722-F796-D1226CF9D3EB}") = "Chess AI", "Assembly-UnityScript.unityproj", "{5E2EE453-FA19-B1EF-6B35-EE3F16EA651B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A23E6A49-7E65-7FD6-3569-0770C42784CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23E6A49-7E65-7FD6-3569-0770C42784CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23E6A49-7E65-7FD6-3569-0770C42784CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23E6A49-7E65-7FD6-3569-0770C42784CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E2EE453-FA19-B1EF-6B35-EE3F16EA651B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2EE453-FA19-B1EF-6B35-EE3F16EA651B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2EE453-FA19-B1EF-6B35-EE3F16EA651B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2EE453-FA19-B1EF-6B35-EE3F16EA651B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
